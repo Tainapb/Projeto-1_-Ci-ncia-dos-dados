@@ -2,7 +2,7 @@
 
 Template para o projeto 1 de CDados
 
-Edite este arquivo com informações úteis do projeto:
+Integrantes:
 - Leandra Fontes 
 - Luana Abramoff
 - Tainá Bonfim 
